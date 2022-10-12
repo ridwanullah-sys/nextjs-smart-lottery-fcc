@@ -105,6 +105,7 @@ export default function LotteryEntrance() {
                         </div>
                         <div>Number Of Players : {numberOfPlayers}</div>
                         <div>Recent Winner : {recentWinner}</div>
+                        <div>ma Gee</div>
                     </div>
                 ) : (
                     <div>No raffle detected on this chain</div>
